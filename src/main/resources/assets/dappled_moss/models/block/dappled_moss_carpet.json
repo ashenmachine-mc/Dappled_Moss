@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/carpet",
+    "textures": {
+        "wool": "dappled_moss:block/dappled_moss_block"
+    }
+}

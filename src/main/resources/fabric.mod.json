@@ -1,0 +1,25 @@
+{
+    "schemaVersion": 1,
+    "id": "dappled_moss",
+    "version": "${version}",
+    "name": "Dappled Moss",
+    "description": "Adds Dappled Moss block and carpet variants.",
+    "authors": ["AshenMachine-MC"],
+    "contact": {
+        "homepage": "",
+        "sources": ""
+    },
+    "license": "MIT",
+    "environment": "*",
+    "entrypoints": {
+        "main": [
+            "com.ashenmachine.dappledmoss.DappledMoss"
+        ]
+    },
+    "depends": {
+        "fabric-api": ">=0.161.0",
+        "fabricloader": ">=0.15.0",
+        "minecraft": "~26.3",
+        "java": ">=25"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+        "all": "dappled_moss:block/dappled_moss_block"
+    }
+}
