@@ -1,4 +1,9 @@
 {
   "block.dappled_moss.dappled_moss": "Dappled Moss Block",
-  "block.dappled_moss.dappled_moss_carpet": "Dappled Moss Carpet"
+  "block.dappled_moss.dappled_moss_carpet": "Dappled Moss Carpet",
+  "block.dappled_moss.dappled_short_grass": "Dappled Short Grass",
+  "block.dappled_moss.dappled_tall_grass": "Dappled Tall Grass",
+  "block.dappled_moss.leaf_litter_red": "Red Leaf Litter",
+  "block.dappled_moss.leaf_litter_yellow": "Yellow Leaf Litter",
+  "block.dappled_moss.leaf_litter_orange": "Orange Leaf Litter"
 }

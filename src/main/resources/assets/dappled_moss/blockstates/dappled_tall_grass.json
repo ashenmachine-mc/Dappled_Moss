@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "half=lower": {
+      "model": "dappled_moss:block/dappled_tall_grass_bottom"
+    },
+    "half=upper": {
+      "model": "dappled_moss:block/dappled_tall_grass_top"
+    }
+  }
+}
