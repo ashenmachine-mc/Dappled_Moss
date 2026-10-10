@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "dappled_moss:block/leaf_litter_red"
+  }
+}

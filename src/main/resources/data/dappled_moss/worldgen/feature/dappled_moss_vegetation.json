@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:simple_block",
+  "to_place": {
+    "type": "minecraft:weighted",
+    "entries": [
+      {
+        "data": "minecraft:red_shrub",
+        "weight": 11
+      },
+      {
+        "data": "dappled_moss:dappled_moss_carpet",
+        "weight": 25
+      },
+      {
+        "data": "dappled_moss:dappled_short_grass",
+        "weight": 50
+      },
+      {
+        "data": "dappled_moss:dappled_tall_grass",
+        "weight": 10
+      }
+    ]
+  }
+}

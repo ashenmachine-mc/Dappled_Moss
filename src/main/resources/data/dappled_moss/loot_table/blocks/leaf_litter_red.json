@@ -1,0 +1,56 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "dappled_moss:leaf_litter_red",
+          "modifier": [
+            {
+              "type": "minecraft:set_count",
+              "condition": {
+                "type": "minecraft:match_block",
+                "blocks": "dappled_moss:leaf_litter_red",
+                "state": { "segment_amount": "1" }
+              },
+              "count": 1
+            },
+            {
+              "type": "minecraft:set_count",
+              "condition": {
+                "type": "minecraft:match_block",
+                "blocks": "dappled_moss:leaf_litter_red",
+                "state": { "segment_amount": "2" }
+              },
+              "count": 2
+            },
+            {
+              "type": "minecraft:set_count",
+              "condition": {
+                "type": "minecraft:match_block",
+                "blocks": "dappled_moss:leaf_litter_red",
+                "state": { "segment_amount": "3" }
+              },
+              "count": 3
+            },
+            {
+              "type": "minecraft:set_count",
+              "condition": {
+                "type": "minecraft:match_block",
+                "blocks": "dappled_moss:leaf_litter_red",
+                "state": { "segment_amount": "4" }
+              },
+              "count": 4
+            },
+            {
+              "type": "minecraft:explosion_decay"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "random_sequence": "dappled_moss:blocks/leaf_litter_red"
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "dappled_moss:block/dappled_tall_grass_top"
+  }
+}

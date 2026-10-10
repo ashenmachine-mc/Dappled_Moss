@@ -10,6 +10,7 @@
         "sources": ""
     },
     "license": "MIT",
+    "accessWidener": "dappled_moss.accesswidener",
     "environment": "*",
     "entrypoints": {
         "main": [

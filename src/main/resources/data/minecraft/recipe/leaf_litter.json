@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:smelting",
+  "category": "blocks",
+  "cookingtime": 200,
+  "experience": 0.1,
+  "ingredient": {
+    "fabric:type": "fabric:difference",
+    "base": "#minecraft:leaves",
+    "subtracted": {
+      "fabric:type": "fabric:any",
+      "ingredients": [
+        "minecraft:red_poplar_leaves",
+        "minecraft:yellow_poplar_leaves",
+        "minecraft:orange_poplar_leaves"
+      ]
+    }
+  },
+  "result": {
+    "id": "minecraft:leaf_litter"
+  }
+}

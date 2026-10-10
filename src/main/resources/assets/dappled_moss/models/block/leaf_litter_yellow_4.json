@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/leaf_litter_4",
+  "textures": {
+    "texture": "dappled_moss:block/leaf_litter_yellow"
+  }
+}

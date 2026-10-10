@@ -15,6 +15,9 @@ repositories {
 	
 }
 
+loom {
+    accessWidenerPath = file("src/main/resources/dappled_moss.accesswidener")
+}
 
 
 dependencies {
